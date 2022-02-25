@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to His Most Excellent Majesty King William III shewing, I, the original foundation of the English monarchy, II, the means by which it was remov'd from that foundation, III, the expedients by which it has been supported since that removal, IV, its present constitution, as to all its integral parts, V, the best means by which its grandeur may be for ever maintain'd.</title>
+            <author>Stephens, William, d. 1718.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61460</idno>
+            <idno type="STC">Wing S5461</idno>
+            <idno type="STC">ESTC R14146</idno>
+            <idno type="EEBO-CITATION">13589055</idno>
+            <idno type="OCLC">ocm 13589055</idno>
+            <idno type="VID">100620</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61460)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100620)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 851:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to His Most Excellent Majesty King William III shewing, I, the original foundation of the English monarchy, II, the means by which it was remov'd from that foundation, III, the expedients by which it has been supported since that removal, IV, its present constitution, as to all its integral parts, V, the best means by which its grandeur may be for ever maintain'd.</title>
+                  <author>Stephens, William, d. 1718.</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The third edition.</edition>
+               </editionStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Darby ... and sold by A. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by William Stephens.  Cf. DNB.</note>
+                  <note>Running title: A letter to His Majesty.</note>
+                  <note>Advertisement: p. [1]</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monarchy --  Early works to 1800.</term>
+               <term>Monarchy --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100620:1"/>
+            <pb facs="tcp:100620:1"/>
+            <p>A LETTER To His moſt Excellent Majeſty King William III. SHEWING,
+<list>
+                  <item>I. The Original Foundation of the <hi>Engliſh</hi> Mo<g ref="char:EOLhyphen"/>narchy.</item>
+                  <item>II. The Means by which it was remov'd from that Foundation.</item>
+                  <item>III. The Expedients by which it has been ſup<g ref="char:EOLhyphen"/>ported ſince that Removal.</item>
+                  <item>IV. Its preſent Conſtitution, as to all its inte<g ref="char:EOLhyphen"/>gral Parts.</item>
+                  <item>V. The beſt Means by which its Grandeur may be for ever maintain'd.</item>
+               </list>
+            </p>
+            <p>
+               <hi>The Third Edition.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Darby</hi> in <hi>Bartholomew Cloſe,</hi> and ſold by <hi>A. Baldwin</hi> in <hi>Warwicklane.</hi> M.DC.XC.IX.</p>
+            <p>Price 3 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:100620:2"/>
+            <pb n="3" facs="tcp:100620:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>A Well-meaning and dutiful Subject humbly begs your Majeſty to read this Letter, which is written with no other deſign than only to ſet before you,
+<list>
+                  <item>I. What was the antient Foundation of the Engliſh Mo<g ref="char:EOLhyphen"/>narchy.</item>
+                  <item>II. How it was remov'd from its natural Foundation.</item>
+                  <item>III. By what Expedients it has bin ſupported ſince that Removal.</item>
+                  <item>IV. By what Expedient your Majeſty may ſupport the Monarchy during your Reign (which I pray God may be long and happy) and alſo raiſe it to as high a degree of Glory as ever it attain'd heretofore. Under which Head is included its preſent Conſtitution as to all its integral Parts.</item>
+               </list>
+            </p>
+            <div n="1" type="part">
+               <p>I. The Monarchy of <hi>England</hi> was ſettled upon an over-bal<g ref="char:EOLhyphen"/>lance of Lands veſted in the King, the Nobility, and the Church, who antiently poſſeſs'd above two thirds of the whole Engliſh Territory: But the Noblemen held their Lands upon conditi<g ref="char:EOLhyphen"/>on, that they ſhould aſſiſt the King on all his Occaſions with certain Quotas of Men well arm'd and paid: And then theſe Noblemen let out their Lands to their Tenants on condition they ſhould always be ready to follow their reſpective Lords to the War as often as the King had any occaſion for their Service. So that very ſmall Rents were demanded by the Lord from the Tenants, becauſe he had contracted for their Perſonal Service.</p>
+               <p>'Twas this diſpoſition of Lands which enabled our former Kings to raiſe great Armies when they pleas'd, and to invade <hi>France</hi> (their natural Enemy) with ſucceſs: and hereby it was that the Nobility upheld the Grandure of the King at <pb n="4" facs="tcp:100620:3"/>home as well as abroad; and at the ſame time they were a ſhelter and defence to the common People, if the King were inclin'd to make any Incroachments upon them. For the over-ballance of Propriety (and conſequently their greateſt natural Power) was veſted in the middle ſtate of Nobility; who were therefore able to preſerve both King and People in their due bounds.</p>
+               <p>Thus the Engliſh Monarchy ſtood upon a natural Founda<g ref="char:EOLhyphen"/>tion, the King being the great Landlord of his People, who were all bound by their Tenures (in ſubordination to one another) to ſupport his Crown and Dignity.</p>
+            </div>
+            <div n="2" type="part">
+               <p>II. This antient Foundation of the Engliſh Monarchy was ſap'd and undermin'd by K. <hi>Henry</hi> the Seventh, who (having ſeen the Imperial Crown of <hi>England</hi> diſpos'd at the pleaſure of the Lords that had maintained a War againſt the Crown for near 400 years) could not but be much concerned at the over<g ref="char:EOLhyphen"/>grown Power of the Peers, who ſometimes would pull down and ſet up what King they pleas'd; and this Conſideration made K.
+<hi>Henry</hi> the Seventh ſeek after ways and means how to leſſen the Power of the Lords, which had been ſo prejudicial to the Crown: and ſeeing that their overgrown Power was ſup<g ref="char:EOLhyphen"/>ported by the great Territories of Land of which they were poſ<g ref="char:EOLhyphen"/>ſeſs'd, and which they could not alienate from their Heirs, He by the help of his Parliament found out a way to change the Tenure of Lands in ſuch a manner that the Tenant ſhould be oblig'd only to pay a Rent inſtead of Perſonal Service to his Landlord: and alſo a way was found out for the Lords to alie<g ref="char:EOLhyphen"/>nate their Lands from their Poſterity. This was done to the end the Lords might be encourag'd by an expenſive way of living to ſell their Lands, and that the Commons who liv'd thriftily might be enabled to purchaſe them. Hereby it came to paſs that at the end of King
+<hi>Henry</hi> the Eighth's Reign (in whoſe time moſt part of the Church-Lands were alſo ſold to the People) the common People of
+<hi>England</hi> had near two thirds of the Lands of <hi>England</hi> in their proper Poſſeſſion, and the King, Lords, and Church little more than one third part; whereby the Ballance was turn'd on the ſide of the Commons,
+<pb n="5" facs="tcp:100620:3"/>who were therefore able to make War upon the King, Lord and Church together, as appear'd afterwards in the Reign of King <hi>Charles</hi> the Firſt.</p>
+               <p>Thus it appears that the antient Foundation of the Engliſh Monarchy was remov'd in the Reign of K. <hi>Henry</hi> the Seventh; and the over-ballance of Lands failing from the Lords to the Commons, 'tis evident that the Monarchy has ever ſince ſtood not upon an Ariſtocratical, but a Popular Foundation; and ſuch a Foundation dos naturally ſupport none but Common<g ref="char:EOLhyphen"/>wealth Forms of Government. Wherefore a Monarchy ſup<g ref="char:EOLhyphen"/>ported on ſuch a Foundation may properly be call'd a Go<g ref="char:EOLhyphen"/>vernment of Expedients, becauſe it is by Expedients and In<g ref="char:EOLhyphen"/>ventions, and not upon any bottom of its own that it ſubſiſts. Now what Expedients our Kings have us'd to ſupport the Monarchy is the next thing to be conſidered. Where<g ref="char:EOLhyphen"/>fore,</p>
+            </div>
+            <div n="3" type="part">
+               <p>III. The Ballance of Lands being chang'd by the end of K.
+<hi>Henry</hi> the Eighth's Reign, from the Lords and Church to the Commons of
+<hi>England,</hi> 'tis paſt all doubt but that Queen <hi>Eli<g ref="char:EOLhyphen"/>zabeth</hi> diſcover'd the popular bottom of the Monarchy, be<g ref="char:EOLhyphen"/>cauſe ſhe found out the only wiſe Expedient by which the Mo<g ref="char:EOLhyphen"/>narchy upon its new Foundation was capable of being ſuppor<g ref="char:EOLhyphen"/>ted in its antient Luſtre and Glory. Her Expedient was her Popularity, by which ſhe accommodated her perſonal Admi<g ref="char:EOLhyphen"/>niſtration to the true Genius of the Monarchical Conſtitution as it then ſtood. For the whole Reign of that Queen (of Glorious Memory) tho long, but not tedious, was paſt over in a conſtant Courtſhip to her People, in which not only all her Actions, but ſometimes her very Words expreſſed her knowledg, that the Monarchy was then founded on their Af<g ref="char:EOLhyphen"/>fections. In what Glory ſhe ſupported her ſelf and the Eng<g ref="char:EOLhyphen"/>liſh Monarchy by that Expedient of Popularity, notwithſtand<g ref="char:EOLhyphen"/>ing very great Oppoſitions from the preeminent Powers of <hi>Europe,</hi> her Hiſtory do's ſufficiently explain.</p>
+               <p>King <hi>James</hi> the Firſt was not in his nature inclin'd to purſues this honourable and proper Expedient, but his thoughts ſeem<g ref="char:EOLhyphen"/>ed to be ſet on his own Power more than upon his Peoples <pb n="6" facs="tcp:100620:4"/>Good; whereby it came to paſs that the Flattery of the Court was more pleaſing to him than the general Intereſt of his King<g ref="char:EOLhyphen"/>dom. And having got ſome ſuperficial skill in the Arts and Sciences, and a profound knowledg (as he thought) in Theo<g ref="char:EOLhyphen"/>logy, he made his Court to the Divines of the Church of
+<hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that they being appriz'd of his great Learning might in their Writings celebrate his Fame, and inſinuate to the People his great Knowledg in all ſorts of Divine and Human Lear<g ref="char:EOLhyphen"/>ning. Hereupon at his firſt coming to the Crown of <hi>England</hi> he induſtriouſly aſſiſted the Biſhops and Church-Party againſt the Puritans; whom the Church look'd upon as no leſs than her Enemies, becauſe tho they could endure, yet they did not admire her Biſhops and Ceremonies. And in this manner that King found out his Expedient in the Church-party, which ad<g ref="char:EOLhyphen"/>mir'd and almoſt ador'd his deep Learning, oftentimes com<g ref="char:EOLhyphen"/>paring him to King <hi>Solomon</hi> for Wiſdom, and indeed omitted no opportunity which might gain him an extraordinary Reve<g ref="char:EOLhyphen"/>rence among the People.</p>
+               <p>'Tis not then to be wonder'd at that King <hi>Charles</hi> the Firſt trod in the ſteps of his Father, and purſued the ſame Expedi<g ref="char:EOLhyphen"/>ent which had been ſucceſsful to his Father, eſpecially having derived from him the ſame Temper of Mind, and being well pleas'd to have for his Flatterers the graveſt of Divines; whoſe Courtſhip ever tended to aggrandize the King by enlarging the Royal Prerogative, and to ſet it above the Laws of the Realm, by virtue of ſome political Doctrines which they drew from the Word of God. From hence ſprang the Divine Right by which thoſe Kings were ſaid to reign over us, and a Divine Right of Succeſſion to the Crown of <hi>England</hi> was derived to their Poſterity. But yet King
+<hi>Charles</hi> the Firſt laid too great a weight upon this Expedient, and encouraged it too much, even when the People began to be ſenſible that the Pulpit-Law did build the King's Prerogative upon the Ruins of the People's Liberty: And herewith began the quarrel of the People againſt that King, in which he loſt his Life; and the Monarchy, loſing its Expedient of the Church party, was likewiſe over<g ref="char:EOLhyphen"/>thrown.</p>
+               <pb n="7" facs="tcp:100620:4"/>
+               <p>After this an Eſſay was made to introduce a Commonwealth-form of Government, but it was interrupted by a Standing Ar<g ref="char:EOLhyphen"/>my, which with their arbitrary and uncertain ways of Admini<g ref="char:EOLhyphen"/>stration at laſt tir'd out the People, that they reſtor'd the Mo<g ref="char:EOLhyphen"/>narchy in the Perſon of King <hi>Charles</hi> the Second; who being the Son of the Royal Martyr, was intitled to all that Aſſiſt<g ref="char:EOLhyphen"/>ance which the Church was capable of giving: and there was one thing more which made the Church-men exert all their Powers with the greateſt vigor in favor of their reſtor'd King, which was this.</p>
+               <p>The Clergy and their Party having bin ill treated ſince the downful of King <hi>Charles</hi> the Firſt, and being again reſtor'd with
+<hi>Charles</hi> the Second to their former Dignities, they were highly animated againſt the Presbyterians, by whom they had bin pro<g ref="char:EOLhyphen"/>voked in the late <hi>Interregnum,</hi> ſo that nothing was more in their Deſires than to be avenged of their Enemies; and this Maſter-paſſion of theirs was ſo well gratified by their King, who grant<g ref="char:EOLhyphen"/>ed ſevere Laws againſt all Diſſenters from the Church, that no Prince ever gain'd the Hearts of the Clergy and their whole Party more intirely to his Intereſt than
+<hi>Charles</hi> the Second. No Vice or Lewdneſs could ſtain the Reputation of the Mar<g ref="char:EOLhyphen"/>tyr's Son; but tho he were the greateſt Encourager of all Pro<g ref="char:EOLhyphen"/>faneneſs and Immorality in the moſt open manner, yet ſtill he was our moſt Religious and Gracious King. In his time all Atheiſts, Debauchees and looſe Perſons own'd the Church of <hi>England</hi> for their Mother; which numerous Party enlarging the Pale of the Church, aſſiſted very much to advance the Power of the King upon the foundation of the Divine Right which it was ſaid God had given him: ſo that the univerſal Acclamation was, Great is <hi>Diana</hi> of the <hi>Epheſians.</hi> and great is the <hi>Jure divino</hi> King, the Image which fell down from <hi>Ju<g ref="char:EOLhyphen"/>piter!</hi>
+               </p>
+               <p>But notwithſtanding this loud Acclamation, the cautious King, who in his Youth had bin forc'd to travel into foreign Countries, and was unwilling to take ſuch another Journy, did not think fit to rely wholly upon this Church-Expedient, but to give it greater ſtrength he twiſted into it a Court-party, who by their Places and Penſions were oblig'd to aſſiſt his <pb n="8" facs="tcp:100620:5"/>Royal Pleaſure by their Votes in both Houſes of Parliament: and thus the Monarchy had its Foundation laid in Place and Penſion, which by angry People is call'<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>BRIBERY.</hi> But let that be as it will,
+'tis certain that Men can never act ſo vigo<g ref="char:EOLhyphen"/>rouſly for a Bribe, as out of mere Inclination. Beſides this, mercenary Men are ſoon diſcover'd in their Deſigns, and the diſcovery of their Principle forfeits all their Credit with the People. So that a ſmall ſteddy Country Party in Parliament were a great clog upon the Projects of Church and Court, which, tho ſo cloſely united together, prov'd but a lame Expe<g ref="char:EOLhyphen"/>dient to ſupport the Monarchy in the Perſon of King <hi>Charles</hi> the Second; ſo that between theſe two ſtools he ſell at laſt to the ground, but not without thoughts of the only Expedient by which he might (had he lived) have eſtabliſh'd himſelf upon the foundation of the People of
+<hi>England.</hi>
+               </p>
+               <p>King <hi>James</hi> the Second would not truſt to any of the fore<g ref="char:EOLhyphen"/>mention'd Expedients, becauſe none of them could be ſuffici<g ref="char:EOLhyphen"/>ent to carry him thro all his Deſigns, eſpecially thro that of in<g ref="char:EOLhyphen"/>troducing Popery. Nothing leſs than a ſtanding Army could ſupport his Tyranny, but Popery was too great a weight for the Army to ſtand under: So that while he was ſubduing the Peo<g ref="char:EOLhyphen"/>ple to Popery by a Proteſtant Army, he loſt both People and Army; in conſequence whereof he was loſt himſelf. And that the loſs of him may by means of your Majeſty's happy Reign be a Gain to
+<hi>England,</hi> it is to be conſider'd,</p>
+            </div>
+            <div n="4" type="part">
+               <p>IV. By what Expedient your Majeſty may ſupport the Eng<g ref="char:EOLhyphen"/>liſh Monarchy during your Reign, and by which you may raiſe it to as eminent a degree of Glory as it ever attain'd hereto<g ref="char:EOLhyphen"/>fore.</p>
+               <p>Your Majeſty may remember that the original foundation of the Monarchy was the great Territory of Land poſſeſſed by the King: but your Majeſty is alſo ſenſible that there are but very ſmall Remainders of this Territory in your preſent Poſſeſſion; even the very accidental additions of Lands to the Crown have bin alienated to the Favorites of the Scotiſh Line: So there is need of an Expedient now as much as ever for the ſupport of the Monarchy.</p>
+               <pb n="9" facs="tcp:100620:5"/>
+               <p>Be pleas'd therefore to review the Expedients of former Princes, end ſee if any of them be ſutable to your particular Circumſtances, or proper for your Majeſty to depend upon for the Support and Glo<g ref="char:EOLhyphen"/>ry of your Throne. And,</p>
+               <p>As for the Church-party, which was the darling Support of the Scotiſh Line, it is ſo much worn-out by a Succeſſion of three Kings, that 'tis very weak and feeble at preſent. The Craft of the Prieſt, which conſiſts in framing ſuch Interpretations of holy Scripture as ſerve an indirect Intereſt, was never diſcover'd ſo much as of late, and no Perſon has ſo much contributed to the diſcovery hereof as your own ſelf; who by the Revolution you have lately made have revers'd all the Political Divinity which the Clergy have bin pro<g ref="char:EOLhyphen"/>pagating ſince the Reign of King <hi>James</hi> the Firſt. 'Twas the Church Clergy and Party who by their preaching and voting op<g ref="char:EOLhyphen"/>pos'd the Bill for excluding <hi>James</hi> D. of
+<hi>York,</hi> a known Papiſt: 'Twas this Party who impoſed upon the Nation the Doctrine of Paſſive Obedience to a Tyrannical King upon pain of eternal Damnation: They always avow'd the divine right of a Lineal Suc<g ref="char:EOLhyphen"/>ceſſion to the Crown (by which your Majeſty is excluded) and that all Kings are of God's (not the Peoples) making. From thoſe Principles ſome of 'em openly refus'd to ſwear Allegiance to your Majeſty; and thoſe of them who yield a paſſive Conformity to your Title and Government, have bin found in ſeveral differing ſtories about the ways and means whereby they ſatisfy their Con<g ref="char:EOLhyphen"/>ſciences in this matter. Some have alledg'd, that your Majeſty ha<g ref="char:EOLhyphen"/>ving conquer'd us, they may lawfully ſubmit to a Uſurpation which cannot be avoided, and is ſettled by ſucceſs: but all of 'em know that your Majeſty can make Biſhops and Deans <hi>de facto,</hi> and therefore they will not queſtion the Defactoſhip of your Preroga<g ref="char:EOLhyphen"/>tive Royal. But it cannot be expected that the Clergy, who have uſually requir'd the Peoples ſubmiſſion to their Sentiments under the pain of Damnation, ſhould upon this Revolution be content<g ref="char:EOLhyphen"/>ed to cry <hi>peccavi,</hi> and openly recant all their former Dectrines of divine Polity by a hearty active conformity to your Majeſty's rightful Title and Government. For this reaſon it is you have re<g ref="char:EOLhyphen"/>ceived ſo little reſpect from the body of the Clergy, tho we have receiv'd all that we enjoy from you.</p>
+               <p>But yet ſuppoſe the Church were willing to exert it ſelf in your Service, its Influence is not at preſent ſo powerful as it has
+<pb n="10" facs="tcp:100620:6"/>bin: for by medling ſo much in State-Affairs ſhe has loſt (in great meaſure (her former Reputation: Nor has ſhe near ſo numerous a Party as formerly ſhe had: for all the Deiſts, Socinians, and Lati<g ref="char:EOLhyphen"/>tudinarians own no ſuch Church-power at all. The Presbyterians, Independents, Baptiſts, and Quakers. tho they have their ſeveral forms of Church Government, yet are no friends to that publickly eſtabliſh'd, but they are unfeigned lovers of your Majeſty, Bigotry likewiſe has lately ſuffer'd a great diminution, and Incredulity is ſtrangely increas'd, and almoſt become faſhionable. Thus the Au<g ref="char:EOLhyphen"/>thority of the Church is forc'd to ſubmit to the Reaſon of Man<g ref="char:EOLhyphen"/>kind; and all thoſe who are dutiful to your Majeſty, are to averſe to the Homilies of the Church, becauſe they exclude you from all pretence of Right to the Crown you wear: So that the Tolera<g ref="char:EOLhyphen"/>tion granted by your Majeſty has done you more Service than Uni<g ref="char:EOLhyphen"/>formity can ever do.</p>
+               <p>As for the Court-party 'twas never eſteem'd to he any more than an Auxiliary to the Church for the ſupport of K. <hi>Charles</hi> II. in whoſe Reign too it was diſcover'd that after a Catalogue of Court-Pen<g ref="char:EOLhyphen"/>ſioners was publiſh'd from the Preſs, the Complexion of his Parlia<g ref="char:EOLhyphen"/>ments was very much changed. And if at any time ſuch a Liſt ſhould be printed, the People of <hi>England</hi> would refuſe to give their Votes for them in the next Election of a Parliament, and in their ſtead will elect Members of a contrary temper: People commonly run out of one extream into another; and when they reject a Courtier, they will probably chooſe a moroſe-humor'd Man in his place.</p>
+               <p>It muſt be allow'd that it has the face of a politie Expedient to adopt Men of known Integrity and Love to their Country into the Court-party; for hereby the Hearts of the People will be for the preſent gain'd to the Court: tho theſe Patriots being endued with a ductile temper, will ſoon become conformable to the nature of the Court. This very Expedient has for a time done good Service to your Majeſty's Affairs both at home and abroad. But I think it ought to be conſidered only as a Cordial which for a ſhort time may revive a languiſhing Man's Spirit, but yet ought not to be depended upon as a conſtant ſupport of Life. And as for theſe new Whig-Courtiers, they will raiſe the Expectations of all Men to hope for a ſteady virtuous Adminiſtration. But when this reputed Patriot ſhall accommodate his Diſcourſe to the old ſtyle of the Court; when he ſhall inſinuate ſuch Notions to <pb n="11" facs="tcp:100620:6"/>his old Acquaintance, the baſeneſs and unworthineſs whereof his old Friends had heard him frequently deteſt all his days in which he was unprefer'd; this new Courtier ſoon loſes all his Credit and Intereſt with his old Friends, who refuſe to follow the Decoy Duck into the Net.</p>
+               <p>But this is not all the miſchief which attends this Project of a Whig-Courtier, but a perſonal loſs of your own Reputation is actually the Conſequence hereof: for as long as the Court was made up of Tories, the People were willing to excuſe your Ma<g ref="char:EOLhyphen"/>jeſty, and lay the faults of Male adminiſtration upon the Tory-Court, ſaying, That the old Tools would ſtill do no other than the old Work. But when a Man of known Honour, Integrity and Love to his Country, upon getting a Preferment ſhall change his former Note, do Violence to himſelf by changing his avowed Principle, and thereby loſing all the Reputation which his former Virtue had gain'd him, every Man will be apt to conclude that this new Courtier is encouraged to do this by ſome higher Power, if not engag'd thereto by the fear of loſing his Place or Penſion. And when the People of <hi>England</hi> ſhall come to know that as ſure<g ref="char:EOLhyphen"/>ly as a Land-man who is imploy'd at Sea will turn Seaman, a Pa<g ref="char:EOLhyphen"/>triot imploy'd in the Adminiſtration will turn Courtier, they will begin in earneſt to think of ſuch a Form of Government as can ſub<g ref="char:EOLhyphen"/>ſiſt without a Court.</p>
+               <p>And having ſaid this, I cannot forbear telling your Majeſty my Thoughts concerning a Commonwealth Party which has bin much talk'd of in
+<hi>England</hi> during the Reign of <hi>K. Charles</hi> the Second, and has not quite bin forgotten at any time ſince,</p>
+               <p>A great Veneration for Monarchy has bin frequently made uſe of by Men to recommend themſelves to the particular favor of our Kings of
+<hi>England;</hi> and when real occaſions have bin wanting to recommend their Affection for Monarchy to the notice of the King, a mere fantaſtical imaginary fear of a Commonwealth has bin made uſe of: hence they have bin perſwading our Sovereign Princes that a great number of their Subjects have form'd them<g ref="char:EOLhyphen"/>ſelves upon Commonwealth Principles, and are ſtill waiting an opportunity to extirpate the Monarchy, and to introduce into its place a Republican form of Government. But your Majeſty has ſeen this fantaſtical Opinion ſufficiently confuted: For thoſe who were the ſuſpected Commonwealths-men join'd heartily together <pb n="12" facs="tcp:100620:7"/>in preſerving the Monarchy, by voting your Majeſty (then Prince of <hi>Orange</hi>) into the Engliſh Throne, in oppoſition to thoſe Ado<g ref="char:EOLhyphen"/>rers of Monarchy who were ſetting up a Regency; who had they put the Kingly Power into the hands of a Committee, had founded a Commonwealth, or ſomething very hardly to be diſtin<g ref="char:EOLhyphen"/>guiſh'd from it. But to proceed from matter of Fact, to reaſon freely upon this matter. I cannot ſuppoſe any man who has the uſe of his Reaſon, and lives under a Monarchy, to be fond of a Commonwealth, if all the ends of Government are anſwer'd by the ſettled Monarchy. So in
+<hi>Holland</hi> he would be thought to have loſt the uſe of his Reaſon, who ſhould hazard his Life by en<g ref="char:EOLhyphen"/>deavouring to introduce a Monarchy there, where all the ends of Government are perfectly anſwer'd by the eſtabliſh'd form of a Commonwealth. The end of all Governments is the common good of the People; and if that great End be attained under any eſtabliſh'd Form, he is fit only for a Mad-houſe who will endea<g ref="char:EOLhyphen"/>vour to pull down the eſtabliſh'd form only to introduce a new one: And a Party of ſuch mad men as theſe can never be ſuffici<g ref="char:EOLhyphen"/>ent to raiſe a jealouſy in any Government which is under an up<g ref="char:EOLhyphen"/>right Adminiſtration. Tho it muſt alſo be acknowledged, that as corrupt Prelates make way for a Presbyterian Government in<g ref="char:EOLhyphen"/>to the Church, ſo a corrupt Court-party may occaſionally intro<g ref="char:EOLhyphen"/>duce a Republican form of Government into the State. Beſides, there is no man who underſtands the political Structure of the Engliſh Monarchy, but will find it ſo agreeable to the Intereſt of a free People, that nothing can be added to it to render it more per<g ref="char:EOLhyphen"/>fect: and it is particularly manifeſt, that all the Advantages which may be ſuppos'd to ariſe from a Commonwealth, may be as freely and fully deriv'd from the Temper of the Engliſh Monarchy; as may thus appear.</p>
+               <p>If any man would know what is the Conſtitution of the Govern<g ref="char:EOLhyphen"/>ment under which he lives, there are but two things to be done in order thereunto. 1. He may conſider the nature of Sovereign Power in relation to all thoſe particular integrating parts out of which it is form'd and compoſed: And 2. It will be alſo needful to conſider in what Perſons theſe integral parts of Sovereign Pow<g ref="char:EOLhyphen"/>er are veſted and lodged. For every independent Government comprehends a Sovereign Power within it ſelf, and is ſpecified by the different Lodgment of the parts of that Sovereignty.</p>
+               <pb n="13" facs="tcp:100620:7"/>
+               <p>Now the integrating parts which compound Sovereign Power are theſe:</p>
+               <list>
+                  <item>1. Legiſlative Power, or Authority to make Laws.</item>
+                  <item>2. Executive Power, which conſiſts in creating Officers to exe<g ref="char:EOLhyphen"/>cute the Laws, and diſcharge all the Functions of the Government according to Law.</item>
+                  <item>3. A Power of making War and Peace.</item>
+                  <item>4. A Power of raiſing Money for ſupport of the Government either in War or Peace.</item>
+                  <item>5. The laſt Appeal in all caſes of Law. To which may be added,</item>
+                  <item>6. The Power over the Mint.</item>
+               </list>
+               <p>And of theſe ſix parts of Sovereign Power, 'tis notorious that there are but one moiety lodged in the Perſon of the King of
+<hi>Eng<g ref="char:EOLhyphen"/>land, viz.</hi> The executive Power, the Power of War and Peace, and the Coinage. And of theſe three branches of Royal Power, the Executive (which is the greateſt) is ſo limited, that the King<g ref="char:punc">▪</g> cannot employ any man in Civil or Military Office under him, but ſuch a one who is qualify'd by Laws of the Peoples ma<g ref="char:EOLhyphen"/>king. And tho the power of War be veſted in the King, yet the Commons have reſerv'd to themſelves the power of raiſing Mo<g ref="char:EOLhyphen"/>ney, without which no War can be carry'd on. As for the Coin<g ref="char:EOLhyphen"/>age, 'tis only an honorary Truſt, rather than any real Power. But in the Legiſlature (which is the greateſt point of Sovereign Power) 'tis certain that the Commons have their ſhare, inſomuch that no Law can be enacted without their Authority. And they alſo having the power of opening the Purſe of the Nation, 'tis certain that no War can be carried on without their Conſent. The laſt Appeal in Suits of Law is uſually made to the Houſe of Lords.</p>
+               <p>And as long as this happy Conſtitution ſhall be preſerv'd from the power of Violence and Fraud, I cannot tell what to wiſh for which may be of greater advantage to the People of <hi>England.</hi>
+               </p>
+               <p>But yet nothing is more notoriouſly known than chat in the four laſt Reigns many Church-arts and Court-practices were uſed to break in upon this happy Conſtitution, by raiſing the Power of the King above what it ought to be, and by reducing the Commons to a narrower compaſs of Power than what of Right belongs to them. And 'tis alſo very well known, that whoſo<g ref="char:EOLhyphen"/>ever have ſhewn their Reſentments hereupon, have bin repreſent<g ref="char:EOLhyphen"/>ed
+<pb n="14" facs="tcp:100620:8"/>as Commonwealths-men and Antimonarchical. But tho theſe men were declared Enemies to the <hi>Turkiſh</hi> and <hi>French</hi> forms of Monarchy, 'twas very viſible that they were me trueſt Lovers of
+<hi>Engliſh</hi> Monarchy, becauſe their Behaviour provoked only that ſort of men who were promoting ſuch Principles and Practices as tended to change ſome part of that Conſtitution. Upon the whole matter, a Commonwealth-form of Government can never be receiv'd among us in
+<hi>England,</hi> but only as the laſt Refuge, when the Church-party and Court-party have, thro corruption, ſubverted the admirable Conſtitution of
+<hi>Engliſh</hi> Monarchy. But to return from this Digreſſion, ſince Prieſt-craft and Court-craft have been of late ſo much diſcover'd; ſince Bigotry of late days is grown out of requeſt; ſince the unbigotted People are more dutiful to your Majeſty than the Bigots are; and ſince the com<g ref="char:EOLunhyphen"/>mon People of <hi>England</hi> are more firm and truſty than a Court-party, I cannot but think that</p>
+               <p>A <hi>Real Popularity</hi> would be a better Expedient than a Church and Court-party join'd together can be: for as to the Expedient of a
+<hi>Standing Army,</hi> 'tis certain, that beſides its own inrrinſic inſuffici<g ref="char:EOLhyphen"/>ency, <hi>Lewis</hi> the preſent French King, and <hi>James</hi> the laſt of <hi>England</hi> have render'd it odious. It ſtinks in the Noſtrils of all freeborn Men, and can only be an Expedient to ſet up a Commonwealth. But 'tis plain that</p>
+               <p>A profeſſed regard to the Common-weal of the People of
+<hi>Eng<g ref="char:EOLhyphen"/>land</hi> ſteddily purſu'd did raiſe the Engliſh Monarchy under the Ad<g ref="char:EOLhyphen"/>miniſtration of Q. <hi>Elizabeth</hi> (of bleſſed memory) to as high a degree of Glory as it ever attain'd when it ſtood upon its natural Foundation. Nor is any Expedient ſo proper for your Majeſty to uſe as this. For,</p>
+               <list>
+                  <item>1. Upon this Foundation the Glory of your Illuſtrious Anceſtors was built. And,</item>
+                  <item>2. Hereby your Majeſty was recommended to the juſt and right<g ref="char:EOLhyphen"/>ful poſſeſſion of the Crown which at preſent you adorn. Party-taking, Party-making, or Partiality of all ſorts over-threw King
+<hi>Charles</hi> the Firſt, ſhook the Throne of King <hi>Charles</hi> the Second, and overturned the Monarchy under the Adminiſtration of the late King
+<hi>James,</hi> which by your Majeſty's Affection to the People of
+<hi>England</hi> was reſtor'd, and by the ſame means is ſtill preſerv'd, and <pb n="15" facs="tcp:100620:8"/>may be advanc'd to as high a pitch of Glory as ever heretofore it had gain'd. For hereby,
+<list>
+                        <item>1. All the true Ends of Government will be fully anſwered.</item>
+                        <item>2. All Factions and Parties will be ſunk and forgotten: there will be no Whig nor Tory, no Jacobite, no Church-party, Court-party, nor Country-party: for the Intereſt of Court and Country will be one and the ſame, which has not been known ſince the Death of Queen
+<hi>Elizabeth,</hi> and therefore will be wonderfully plea<g ref="char:EOLhyphen"/>ſing for its Novelty, as well as for its Profitableneſs.</item>
+                        <item>3. Virtue and Honeſty (which have bin much decay'd of late years) will be encourag'd and reſtor'd. For no Man can pretend to recommend himſelf to your Royal Favour, but by advancing the Deſign which your Majeſty openly dos encourage.</item>
+                        <item>4. Hereby your Majeſty will gain ſuch a Credit with your Peo<g ref="char:EOLhyphen"/>ple, as by virtue thereof very much to increaſe the Wealth and Strength of the Nation in a ſhort time. And your Majeſty's Re<g ref="char:EOLhyphen"/>venue muſt neceſſarily bear a ſutable proportion to the Trade of your Subjects; ſo that he who commands the Trade of the World, will conſequently command the Wealth of the World. And,</item>
+                        <item>5. Hereby you may be able to follow the two great Maxims of Queen <hi>Elizabeth</hi>'s Reign, which were,
+<list>
+                              <item>1ſt. To be the Head of the Proteſtants all over the World. And,</item>
+                              <item>
+                                 <hi>2dly.</hi> To keep the Ballance of
+<hi>Europe</hi> equal and ſteddy.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <p>And thus the Glory of the Engliſh Monarchy under your Ma<g ref="char:EOLhyphen"/>jeſty's gracious Adminiſtration will be the Terror of others, and the Delight of all Engliſh People, which is the ſincere deſire of</p>
+            </div>
+            <closer>
+               <signed>Your Majeſty's most faithful, dutiful, and humble Subject and Servant</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:100620:9" rendition="simple:additions"/>
+            <head>A Catalogue of Books written againſt a Standing Army, and ſold by <hi>A. Balwin.</hi>
+            </head>
+            <list>
+               <item>AN Argument ſhewing, that a Standing Army is inconſiſtent with a Free Government, and abſolutely deſtructive to the Conſti<g ref="char:EOLhyphen"/>tution of the Engliſh Monarchy. In 2 Parts. Price 1
+<abbr>
+                     <hi>s.</hi>
+                  </abbr>
+               </item>
+               <item>A Letter from the Author of the Argument againſt a Standing Ar<g ref="char:EOLhyphen"/>my, to the Author of the Ballancing Letter. Price 3
+<abbr>
+                     <hi>d.</hi>
+                  </abbr>
+               </item>
+               <item>Some Queries for the better underſtanding K.
+<hi>James</hi>'s Liſt of 18000 Iriſh Heroes publiſhed at the
+<hi>Savoy,</hi> in anſwer to what had bin, and what ſhould be writ againſt a Standing Army. Price 1 <abbr>
+                     <hi>d.</hi>
+                  </abbr>
+               </item>
+               <item>A Diſcourſe concerning Government with relation to Militias. Price 6 <abbr>
+                     <hi>d.</hi>
+                  </abbr>
+               </item>
+               <item>The Militia Reform'd, or an eaſy Scheme of furniſhing
+<hi>England</hi> with a conſtant Land Force, capable to prevent or to ſupdue any Foreign Power, and to maintain perpetual Quiet at home, without endangering the Publick Liberty. The 2d Edition. Price 1
+<abbr>
+                     <hi>s.</hi>
+                  </abbr>
+               </item>
+               <item>A ſhort Hiſtory of Standing Armies in <hi>England.</hi> The 3d Edition. Price 6 <abbr>
+                     <hi>d.</hi>
+                  </abbr>
+               </item>
+               <item>A Confutation of a late Pamphlet intituled, A Letter ballancing the Neceſſity of keeping up a Land Force in times of Peace, with the Dangers that may follow on it. Part I. The 2d Edition. Price 6
+<abbr>
+                     <hi>d.</hi>
+                  </abbr> The Second Part, being a Vindication of <hi>Magna Charta,</hi> will be ſpeedily publiſh'd.</item>
+               <item>A Letter to a Member of Parliament concerning Guards and Ga<g ref="char:EOLhyphen"/>riſons. Price 2 <abbr>
+                     <hi>d.</hi>
+                  </abbr>
+               </item>
+               <item>A 2d Letter concerning the four Regiments commonly called Ma<g ref="char:EOLhyphen"/>reeners. Price 3 <abbr>
+                     <hi>d.</hi>
+                  </abbr>
+               </item>
+               <item>The Seaman's Opinion of a Standing Army, in oppoſition to a Fleet at Sea as the beſt ſecurity of the Kingdom. In a Letter to a Merchant written by a Sailor. The 3d Edition. Price 6 <abbr>
+                     <hi>d.</hi>
+                  </abbr>
+               </item>
+               <item>Some further Conſiderations concerning a Standing Army. Pr.
+3 <abbr>
+                     <hi>d.</hi>
+                  </abbr>
+               </item>
+               <item>The State of the Caſe, or the Caſe of the State. Price 1
+<abbr>
+                     <hi>d.</hi>
+                  </abbr>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
